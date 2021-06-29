@@ -1,0 +1,1 @@
+En esta carpeta vas a eliminar el documento de texto, y en todas las carpetas de nombres vas agregar al menos dos fotos del rostro de la persona que quieras reconocer. Son mínimo dos fotos en .jpg
